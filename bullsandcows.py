@@ -153,7 +153,7 @@ THEME_ASSIGNMENT_IDENTICAL = 0
 THEME_CHATTY = 1
 
 # if you want to have the same target sequence every time (0000 and ab)
-DEBUGGING = True
+DEBUGGING = False
 
 
 def prompt_language_selection(select=None):
